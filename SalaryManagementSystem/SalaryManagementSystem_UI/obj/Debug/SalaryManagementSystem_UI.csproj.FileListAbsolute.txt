@@ -1,0 +1,31 @@
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_UI.exe.config
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_UI.exe
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_UI.pdb
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.csprojResolveAssemblyReference.cache
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.Properties.Resources.resources
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.csproj.GenerateResource.Cache
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.exe
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.LoginForm.mainDashboard.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.LoginForm.signInUpUser.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_DataLayer.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_Utility.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_DataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_Utility.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.EmployeeForm.manageEmployee.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.EmployeeForm.addEditEmployee.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.DepartmentForm.addEditDepartment.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.DepartmentForm.manageDepartment.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.ManageForm.addNewManage.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.ManageForm.manageThisManage.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_ViewModel.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_ViewModel.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.PaymentForm.addPayment.resources
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.PaymentForm.managePayment.resources
+D:\uni\projects\nastaran_salaryManagment_xxx\project\SalaryManagementSystem_UI\bin\Debug\SalaryManagementSystem_UI.exe.config
+D:\uni\projects\nastaran_salaryManagment_xxx\project\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.exe
+D:\uni\projects\nastaran_salaryManagment_xxx\project\SalaryManagementSystem_UI\obj\Debug\SalaryManagementSystem_UI.pdb

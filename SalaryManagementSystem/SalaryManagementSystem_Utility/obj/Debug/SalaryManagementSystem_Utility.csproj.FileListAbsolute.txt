@@ -1,0 +1,5 @@
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_Utility\bin\Debug\SalaryManagementSystem_Utility.dll
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_Utility\bin\Debug\SalaryManagementSystem_Utility.pdb
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_Utility\obj\Debug\SalaryManagementSystem_Utility.dll
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_Utility\obj\Debug\SalaryManagementSystem_Utility.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_Utility\obj\Debug\SalaryManagementSystem_Utility.csprojResolveAssemblyReference.cache

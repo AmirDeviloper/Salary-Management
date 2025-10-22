@@ -1,0 +1,12 @@
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\SalaryManagementSystem_DataLayer.dll
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\SalaryManagementSystem_DataLayer.pdb
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\obj\Debug\SalaryManagementSystem_DataLayer.csprojResolveAssemblyReference.cache
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\obj\Debug\SalaryManagementSystem_DataLayer.dll
+c:\users\amir\documents\visual studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\obj\Debug\SalaryManagementSystem_DataLayer.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\SalaryManagementSystem_DataLayer.dll.config
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\SalaryManagementSystem_ViewModel.dll
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\SalaryManagementSystem\SalaryManagementSystem_DataLayer\bin\Debug\SalaryManagementSystem_ViewModel.pdb

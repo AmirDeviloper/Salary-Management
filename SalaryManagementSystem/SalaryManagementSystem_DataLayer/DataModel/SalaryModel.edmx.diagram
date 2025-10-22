@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="912c25288f0247a38d2d07779f862323" Name="Diagram1">
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Department" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Employee" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Login" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Manage" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Payment" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.Skill" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="SalaryManagementDBModel.sysdiagrams" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="SalaryManagementDBModel.FK_Manage_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="SalaryManagementDBModel.FK_Manage_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="SalaryManagementDBModel.FK_Manage_Skill" ManuallyRouted="false" />
+        <AssociationConnector Association="SalaryManagementDBModel.FK_Payment_Manage" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
